@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+	Create an empty git repository and it is where git will be tracking files changes.
